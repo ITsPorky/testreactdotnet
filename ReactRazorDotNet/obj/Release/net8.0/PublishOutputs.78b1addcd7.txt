@@ -1,0 +1,8 @@
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\ReactRazorDotNet.exe
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\web.config
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\appsettings.json
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\ReactRazorDotNet.dll
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\ReactRazorDotNet.deps.json
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\ReactRazorDotNet.runtimeconfig.json
+G:\Projects\ASPDOTNET-Projects\ReactRazorDotNet\ReactRazorDotNet\ReactRazorDotNet\obj\Release\net8.0\PubTmp\Out\ReactRazorDotNet.pdb

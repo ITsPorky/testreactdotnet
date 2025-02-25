@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReactRazorDotNet.props" />
+</Project>
