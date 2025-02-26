@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactRazorDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0623dce758688e8bae8bc96d6e4f43a2b4dcafd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactRazorDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactRazorDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

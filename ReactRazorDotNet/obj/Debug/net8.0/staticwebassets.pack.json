@@ -9,20 +9,20 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\index.css",
-      "PackagePath": "staticwebassets\\dist\\index.css"
+      "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\assets\\index.css",
+      "PackagePath": "staticwebassets\\dist\\assets\\index.css"
+    },
+    {
+      "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\assets\\index.js",
+      "PackagePath": "staticwebassets\\dist\\assets\\index.js"
+    },
+    {
+      "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\assets\\react.svg",
+      "PackagePath": "staticwebassets\\dist\\assets\\react.svg"
     },
     {
       "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\index.html",
       "PackagePath": "staticwebassets\\dist\\index.html"
-    },
-    {
-      "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\index.js",
-      "PackagePath": "staticwebassets\\dist\\index.js"
-    },
-    {
-      "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\react.svg",
-      "PackagePath": "staticwebassets\\dist\\react.svg"
     },
     {
       "Id": "G:\\Projects\\ASPDOTNET-Projects\\ReactRazorDotNet\\ReactRazorDotNet\\ReactRazorDotNet\\wwwroot\\dist\\vite.svg",
