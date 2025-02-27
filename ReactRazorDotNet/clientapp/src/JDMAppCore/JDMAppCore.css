@@ -1,0 +1,44 @@
+/* #region Modal Dialog */
+
+.jdm-modal-background {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #00000055;
+  transition: 0.2s ease-in-out;
+}
+
+.jdm-modal-foreground {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--light-text);
+  background: var(--dark-bg-secondary);
+  padding: 1rem;
+  border-radius: 5px;
+  transition: 0.2s ease-in-out;
+}
+
+.jdm-modal-container {
+  margin: 0px 20px;
+}
+
+.jdm-title-modal-titlebar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.jdm-modal-title {
+  margin: 0;
+}
+
+.jdm-modal-content {
+}
+
+/* #endregion */
