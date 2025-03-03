@@ -26,10 +26,81 @@
   }
 }
 
+:root {
+  --font-size: 14px;
+  --font-primary: "Rubik Mono One", monospace;
+  --font-secondary: "Rubik", sans-serif;
+  --font-icons: "Font Awesome 6 Free";
+  --footer-bg-light: #e1e9ef;
+  --footer-bg-dark: #0b1215;
+  --dark-bg: #161b22;
+  --dark-bg-secondary: #1f2630;
+  --dark-text: #0b1215;
+  --light-bg: #f0f8ff;
+  --light-bg-secondary: #e1e9ef;
+  --light-text: #f0f8ff;
+  --accent: #4ab3fd;
+  --success: #4afda3;
+  --error: #fd4a4a;
+  --header-height: 70px;
+  --border-radius: 5px;
+  --label-border-radius: 2rem;
+  --box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  --box-shadow-popup: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  --ease-transition: 0.3s ease-in-out;
+  --drawer-transition: 0.2s ease-in-out;
+  --tooltip-transition: 0.2s ease-in-out;
+  --dropdown-icon-transition: 0.1s ease-in-out;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--light-bg) !important;
+  color: var(--dark-text) !important;
+  font-family: var(--font-secondary), monospace;
+  font-size: var(--font-size);
+  overflow-x: hidden;
+}
+
 .card {
   padding: 2em;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+.btn {
+  text-align: center;
+  background: var(--dark-bg);
+  color: var(--light-text);
+  border: 1px solid var(--dark-bg);
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: var(--ease-transition);
+}
+
+.dark .btn {
+  background: var(--light-bg);
+  color: var(--dark-text);
+  border: 1px solid var(--light-bg);
+}
+
+.btn.secondary {
+  background: var(--light-bg);
+  color: var(--dark-text);
+  border: 1px solid var(--dark-bg);
+}
+
+.dark .btn.secondary {
+  background: var(--dark-bg);
+  color: var(--light-text);
+  border: 1px solid var(--light-bg);
 }
